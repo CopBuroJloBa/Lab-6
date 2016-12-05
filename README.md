@@ -1,2 +1,1 @@
-# Lab6
-Шестая лабораторная по ТРПО
+https://travis-ci.org/Cupofjuiceh/Lab6.svg?branch=master
